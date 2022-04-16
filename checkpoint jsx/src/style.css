@@ -1,0 +1,11 @@
+
+    .red{
+      color:red;
+    }
+    .image{
+        width: 50%;
+        height: 300px;
+    }
+    .images{
+        display:flex;    
+    }
